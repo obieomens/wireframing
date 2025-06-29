@@ -180,5 +180,47 @@ Great for flowcharts, wireframes, and mind maps
 
 Simple and fast for brainstorming sessions
 
+Real-World Scenario: E-Commerce Checkout Flow
+Context:
+A design team was working on an e-commerce platform that included a multi-step checkout process. The team decided to create low-fidelity wireframes to outline the flow before any visual design or coding began.
+
+Usability Issue Identified:
+During a team review of the wireframes, stakeholders noticed that:
+
+The "Continue to Payment" button appeared at the bottom of a long form.
+
+Users had to scroll past several input fields (shipping address, billing details, optional promo code) before they could proceed.
+
+There was no visible progress indicator, so users didn’t know how many steps remained.
+
+These issues raised a red flag: the flow might feel confusing, slow, and incomplete, especially on mobile.
+
+How the Issues Were Resolved:
+Button Placement Adjusted:
+The CTA ("Continue to Payment") was made sticky at the bottom of the viewport, so it remained visible as users scrolled.
+
+Progress Bar Added:
+A simple step indicator (e.g., Step 2 of 4) was added to the top of the page to guide users through the process.
+
+Form Sections Split:
+The long form was broken into smaller, collapsible sections to reduce visual clutter and cognitive load.
+
+Tested with Users:
+A clickable high-fidelity wireframe was tested with real users using Figma’s prototyping tools. Feedback confirmed the changes made the flow feel smoother and more predictable.
+
+Impact on the Final Product:
+Reduced cart abandonment rates during checkout
+
+Improved mobile usability and navigation
+
+Faster development time due to clear and validated wireframes
+
+Stakeholders had more confidence in the design before launch
+
+Conclusion: The Role of Wireframing
+Wireframing played a critical role in catching potential usability issues early — before any time or money was spent on development. It provided a safe space to explore ideas, get feedback, and refine user flows. This resulted in a more intuitive and user-friendly product that met both business goals and user expectations.
+
+
+
 
 
