@@ -73,7 +73,62 @@ Submit button
 
 Shows how the user can access their account and what actions are expected.
 
+Types of wireframe:
+Low-Fidelity = Fast, rough, for early thinking
 
+High-Fidelity = Detailed, refined, for validation and development
+
+
+Differences Between Low-Fidelity and High-Fidelity Wireframes
+
+Low-fidelity wireframe
+Level of details: Basic layout and structure (boxes, placeholders)
+Visual style: Black and white or grayscale.
+Speed to create: fast and simple.
+Tool used: Paper, whiteboard, Balsamiq.
+User interaction: Static, no interactivity.
+Purpose: Concept exploration, layout planning, early feedback
+Stakeholder: Used for internal feedback and brainstorming.
+
+High-fidelity Wireframe
+Level of detail:Detailed design with real UI elements and content.
+Visual style: Includes colors, fonts, icons, and spacing.
+Speed to create: More time-consuming and precise.
+Tool used: Figma, Adobe XD, Sketch.
+User interaction: Interactive, can simulate real app behavior.
+purpose: Design validation, developer handoff, user testing.
+Stakeholders: Used for presenting to clients or end-users.
+
+When to Use Each Type
+Low-Fidelity Wireframes
+Used in: Early stages of the design process
+Purpose:
+
+To quickly map out ideas
+
+Explore structure and user flow
+
+Get early team/stakeholder feedback
+
+Save time before investing in detailed visuals
+
+ Example Use Case:
+Sketching out the layout for a new feature in a team brainstorming session.
+
+High-Fidelity Wireframes
+Used in: Later stages of the design process
+Purpose:
+
+To finalize UI and UX decisions
+
+Conduct usability testing with realistic screens
+
+Handoff to developers for accurate implementation
+
+Pitch to stakeholders with a near-final look
+
+Example Use Case:
+Creating a clickable prototype for an app demo to gather feedback from real users.
 
 
 
