@@ -73,7 +73,8 @@ Submit button
 
 Shows how the user can access their account and what actions are expected.
 
-Types of wireframe:
+Types of Wireframes
+
 Low-Fidelity = Fast, rough, for early thinking
 
 High-Fidelity = Detailed, refined, for validation and development
